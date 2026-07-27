@@ -1,7 +1,5 @@
 name: 每日更新规则
 
-name: Daily Update Rules
-
 on:
   schedule:
     - cron: '0 0 * * *'
